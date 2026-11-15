@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "tracks": [
+    {
+      "id": "orbitas",
+      "source": "audio",
+      "title": "Órbitas",
+      "artist": "Terminal Sessions",
+      "src": "assets/music/orbitas.mp3",
+      "theme": "orbit",
+      "duration": 50.78
+    },
+    {
+      "id": "neon-noturno",
+      "source": "audio",
+      "title": "Neon Noturno",
+      "artist": "Terminal Sessions",
+      "src": "assets/music/neon-noturno.mp3",
+      "theme": "neon",
+      "duration": 45.17
+    },
+    {
+      "id": "ondas-digitais",
+      "source": "audio",
+      "title": "Ondas Digitais",
+      "artist": "Terminal Sessions",
+      "src": "assets/music/ondas-digitais.mp3",
+      "theme": "waves",
+      "duration": 54.88
+    }
+  ]
+}
